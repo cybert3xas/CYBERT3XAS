@@ -1,4 +1,4 @@
-#cybert3xas
+# cybert3xas
 ## Hello there 👋 my name is Jonathan Arugmedo
 
 I currently work as a web developer and study at The University of Texas at El Paso (**UTEP**). 
