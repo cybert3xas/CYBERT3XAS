@@ -1,5 +1,5 @@
 # cybert3xas
-## Hello there 👋 my name is Jonathan Arugmedo
+## Hello there 👋 my name is Jonathan Argumedo
 
 I currently work as a software enginner. 
 
